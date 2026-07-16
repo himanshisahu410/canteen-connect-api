@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CanteenConnect.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+522a1bcd7a4695eea41c6abe2c8a42284934f8ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf1824fb5f2814911650c08deb425f61ddeb57d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CanteenConnect.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CanteenConnect.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

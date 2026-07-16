@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: canteen-connect-api
+    runtime: docker
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: JwtSettings__Key
+        value: CanteenConnect@SuperSecret#Key2024$MustBeLongEnough!
+      - key: JwtSettings__Issuer
+        value: CanteenConnect.API
+      - key: JwtSettings__Audience
+        value: CanteenConnect.Client
+      - key: JwtSettings__ExpiryInDays
+        value: 7
